@@ -27,4 +27,4 @@ Principais Pontos para Otimização:
 - Implementar sistema de consolidação de pedidos por região
 - Rotas de entrega adicionais com base no volume por país
 
-[![Análise Logística]([https://julius.ai/files?filename=logistica_analise.png](https://julius.ai/files?filename=logistica_recomendacoes.md))](https://julius.ai/)
+[![Gráfico Logística](../../img/grafico.png)](https://julius.ai)
