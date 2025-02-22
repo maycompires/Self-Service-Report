@@ -12,7 +12,7 @@
 
 # Análise de Otimização Logística
 
-##Principais Pontos para Otimização:
+Principais Pontos para Otimização:
 
 1. Concentração de Demanda:
 - Canadá, Austrália e França são os mercados com maior volume
