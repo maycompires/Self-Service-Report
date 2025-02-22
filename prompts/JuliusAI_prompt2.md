@@ -1,0 +1,1 @@
+Produto Mais Lucrativo: "Identifique qual produto gerou o maior faturamento total e informe o valor arrecadado."
